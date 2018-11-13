@@ -1,0 +1,3 @@
+host1 - Kubuntu 16.04.5 LTS
+host2 - Kali 2.0 
+Server - Lubuntu 18.04 LTS
